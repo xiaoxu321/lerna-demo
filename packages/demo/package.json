@@ -1,0 +1,29 @@
+{
+  "name": "demo",
+  "version": "0.1.0",
+  "description": "bert-test",
+  "keywords": [
+    "bert"
+  ],
+  "author": "bert <bertXu@facilityone.cn>",
+  "homepage": "http://bert-homepage",
+  "license": "ISC",
+  "main": "lib/demo.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoxu321/lerna-demo.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/demo.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/xiaoxu321/lerna-demo/issues"
+  }
+}
