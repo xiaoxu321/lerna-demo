@@ -2,6 +2,9 @@
   "name": "@bert.xu/bert_lerna_demo",
   "version": "0.6.0",
   "description": "bert-test",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "keywords": [
     "bert"
   ],
@@ -26,5 +29,5 @@
   "bugs": {
     "url": "https://github.com/xiaoxu321/lerna-demo/issues"
   },
-  "gitHead": "266d323fe422b29db4fa1c8a289b9a54ec548ff4"
+  "gitHead": "512c33e482a878c6b972383a4be9e7bc3ec66ad9"
 }
