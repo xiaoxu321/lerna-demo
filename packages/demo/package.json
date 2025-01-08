@@ -1,6 +1,6 @@
 {
   "name": "@bert.xu/bert_lerna_demo",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "bert-test",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
